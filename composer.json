@@ -1,6 +1,6 @@
 {
-    "name": "facebook/php-sdk-v4",
-    "description": "Facebook SDK for PHP",
+    "name": "noodlewitt/facebook-php-sdk-v4",
+    "description": "Laravel Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/facebook/facebook-php-sdk-v4",
@@ -9,6 +9,10 @@
         {
             "name": "Facebook",
             "homepage": "https://github.com/facebook/facebook-php-sdk-v4/contributors"
+        },
+        {
+            "name": "Simon Davies",
+            "homepage":"noodlewitt.com"
         }
     ],
     "require": {
