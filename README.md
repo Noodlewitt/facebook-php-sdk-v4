@@ -4,6 +4,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/facebook/facebook-php-sdk-v4/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/facebook/facebook-php-sdk-v4/?branch=master)
 [![Latest Stable Version](http://img.shields.io/badge/Latest%20Stable-5.1.0-blue.svg)](https://packagist.org/packages/facebook/php-sdk-v4)
 
+A SIMPLE FORM OF FACEBOOK SDK WITH CHANGED SESSION HANDLING FOR LARAVEL
 
 This repository contains the open source PHP SDK that allows you to access the Facebook Platform from your PHP app.
 
